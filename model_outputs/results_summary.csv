@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Decision Tree,99.59%,99.59%,99.59%,99.59%
+AdaBoost,99.56%,99.57%,99.56%,99.56%
+SVM,99.15%,99.16%,99.15%,99.16%
